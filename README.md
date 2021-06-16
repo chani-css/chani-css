@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... an Experiment
 - 🌱 I’m currently learning ... HTML and CSS
 - 💬 Ask me about ... my Experiment
-- 📫 How to reach me: ... 
+- 📫 How to reach me: ... 🟩⬜🟥
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... "Lasciate ogni speranza voi che entrata" 
 
