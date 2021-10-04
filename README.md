@@ -6,7 +6,7 @@
 - 💬 Ask me about ... my Experiment
 - 📫 How to reach me: ... 🟩⬜🟥
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... "Lasciate ogni speranza voi che entrata" 
+- ⚡ Fun fact: ... "Need me to do any attacking, Sir?" "Of course, bananas are far more interesting...."
 
 
 [![Chani's GitHub stats](https://github-readme-stats.vercel.app/api?username=chani-css&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
