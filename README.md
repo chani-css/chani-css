@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on ... an Experiment
 - 🌱 I’m currently learning ... HTML and CSS
 - 💬 Ask me about ... my Experiment
-- 📫 How to reach me: ... 🟩⬜🟥
-- 😄 Pronouns: ... she/her
+- 📫 How to reach me: ... 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+- 😄 Pronouns: ... she/they/ze
 - ⚡ Fun fact: ... "Need me to do any attacking, Sir?" "Of course, bananas are far more interesting...."
 
 
