@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... HTML and CSS
 - 💬 Ask me about ... my Experiment
 - 📫 How to reach me: ... 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-- 😄 Pronouns: ... she/they/ze
+- 😄 Pronouns: ... they/he
 - ⚡ Fun fact: ... "Need me to do any attacking, Sir?" "Of course, bananas are far more interesting...."
 
 
